@@ -1,0 +1,29 @@
+.course{
+    
+    margin:20px;
+    background-color: #487eb0;
+    border: 1px solid lightgrey;
+    padding-bottom: 5px;
+    width: 250px;
+    border-radius: 15px;
+    color:white;
+    height:250px;
+}
+.inner{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+h5{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.enroll{
+    height:30px;
+    background-color:rgb(236, 24, 87);
+    color: white;
+    width:120px;
+    border: 1px solid lightgrey;
+    font-weight: bolder;
+    border-radius: 15px;
+}

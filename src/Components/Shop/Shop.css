@@ -1,0 +1,17 @@
+.shop{
+   display:flex;
+}
+
+.item{
+    width:70%;
+    display: flex;
+    flex-wrap: wrap;
+    
+  
+}
+.cart{
+    width:30%;
+    overflow: hidden;
+    border-left: 1px solid grey;
+
+}
